@@ -70,7 +70,7 @@ Qidi Zhong, Siyang Liu, **Jiani Liu**, Kaikai Pan, Yushi Cheng, Wenyuan Xu
 
 
 # 📖 Educations
-- *2019.08 - 2023.06 (now)*, B.S. in Computer Science, Harbin Engineering University
+- *2019.08 - 2023.06*, B.S. in Computer Science, Harbin Engineering University
 - *2023.08 - now*, Ph.D., Zhejiang University
 
 
