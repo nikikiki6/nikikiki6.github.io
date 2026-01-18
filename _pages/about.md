@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB](https://www.usslab.org/)) at Zhejiang University, advised by [Prof. Yushi Cheng](https://scholar.google.com/citations?hl=zh-CN&user=E59dgV4AAAAJ), [Prof. Xiaoyu Ji](https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ), and [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ). Previously, I obtained my B.Eng with honor also from Harbin Engineering University,advised by [Prof. Jian Guan](https://scholar.google.com/citations?hl=zh-CN&user=wf60G1sAAAAJ) . My research interests lie in Trustworthy AI, with a specific focus on the intersection of Generative AI Security and Content Safety. 
+Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB](https://www.usslab.org/)) at Zhejiang University, co-advised by [Prof. Yushi Cheng](https://scholar.google.com/citations?hl=zh-CN&user=E59dgV4AAAAJ), [Prof. Xiaoyu Ji](https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ), and [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ). Previously, I obtained my B.Eng with honor also from Harbin Engineering University,advised by [Prof. Jian Guan](https://scholar.google.com/citations?hl=zh-CN&user=wf60G1sAAAAJ) . My research interests lie in Trustworthy AI, with a specific focus on the intersection of Generative AI Security and Content Safety. 
 <!-- I have published 2 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> .-->
 
 
 # 🔥 News
-- *2023.11*: CamPro is accepted to NDSS 2024.
 - *2026.01*: PINA and IPI² is accepted to ICASSP 2026.
+- *2023.11*: CamPro is accepted to NDSS 2024.
 
 
 
@@ -66,6 +66,8 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 
 
 # 🎖 Honors and Awards
+- Outstanding Graduate Student Cadre, Zhejiang University, 2024, 2025
+- Outstanding Graduate Student, Zhejiang University, 2024, 2025
 - Outstanding Graduate of Heilongjiang Province, 2023
 - National Scholarship, 2021
 
@@ -80,7 +82,9 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💬 Services
-Reviewer of IEEE International Conference on Acoustics, Speech, and Signal Processing
+- Reviewer of IEEE International Conference on Acoustics, Speech, and Signal Processing
+- Teaching Assistant of ECE471(Data Science Analytics using Probabilistic Graph Models), ZJU-UIUC Institute at Zhejiang University, 2024.9 - 2025.1.
+- Teaching Assistant of Reliability Engineering and Maintenance Management, ZJU-UIUC Institute at Zhejiang University, 2024.11 - 2025.1.
 
 
 <!-- 这里是注释 .-->
