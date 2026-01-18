@@ -57,7 +57,7 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 <div class="paper-box">
   <div class="paper-box-text" markdown="1">
 
-**[ICASSP 2026]** [IPI²: Mitigating Indirect Prompt Injections on Unmanned Aerial Vehicle Agents Using Physical Invariants](https://arxiv.org/pdf/2401.00151)
+<div class="badge">ICASSP 2026</div> [IPI²: Mitigating Indirect Prompt Injections on Unmanned Aerial Vehicle Agents Using Physical Invariants](https://arxiv.org/pdf/2401.00151)
 
 Qidi Zhong, Siyang Liu, **Jiani Liu**, Kaikai Pan, Yushi Cheng, Wenyuan Xu
 
