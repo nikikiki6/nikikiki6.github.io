@@ -28,7 +28,7 @@ Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab (USSLAB)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='images/campro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='images/campro.png' alt="CamPro-NDSS'24" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CamPro: Camera-based Anti-Facial Recognition](https://arxiv.org/pdf/2401.00151)
@@ -37,6 +37,31 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 
 [Code](https://github.com/forget2save/CamPro)
 </div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/pina.png' alt="PINA-ICASSP'26" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PINA: Prompt Injection Attack against Navigation Agents](https://arxiv.org/pdf/2401.00151)
+
+**Jiani Liu**, Yixin He, Lanlan Fan, Qidi Zhong, Yushi Cheng, Meng Zhang, Yanjiao Chen, Wenyuan Xu
+
+[Code](https://github.com/nikikiki6/PINA)
+</div>
+</div>
+
+
+
+<div class="paper-box">
+  <div class="paper-box-text" markdown="1">
+
+**[ICASSP 2026]** [IPI²: Mitigating Indirect Prompt Injections on Unmanned Aerial Vehicle Agents Using Physical Invariants](https://arxiv.org/pdf/2401.00151)
+
+Qidi Zhong, Siyang Liu, **Jiani Liu**, Kaikai Pan, Yushi Cheng, Wenyuan Xu
+
+  </div>
 </div>
 
 
