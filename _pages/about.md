@@ -28,7 +28,7 @@ Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab (USSLAB)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='images/campro.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CamPro: Camera-based Anti-Facial Recognition](https://arxiv.org/pdf/2401.00151)
