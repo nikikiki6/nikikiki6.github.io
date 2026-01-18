@@ -24,6 +24,8 @@ Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab (USSLAB)
 
 # 🔥 News
 - *2023.11*: CamPro is accepted to NDSS 2024.
+- *2026.01*: PINA and IPI² is accepted to ICASSP 2026.
+
 
 
 # 📝 Publications 
@@ -59,7 +61,7 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 
 
 - [IPI²: Mitigating Indirect Prompt Injections on Unmanned Aerial Vehicle Agents Using Physical Invariants](https://arxiv.org/pdf/2401.00151),Qidi Zhong, Siyang Liu, **Jiani Liu**, Kaikai Pan, Yushi Cheng, Wenyuan Xu
-, ICASSP 2026
+, *ICASSP 2026*.
 
 
 
