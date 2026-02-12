@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB](https://www.usslab.org/)) at Zhejiang University, co-advised by [Prof. Yushi Cheng](https://scholar.google.com/citations?hl=zh-CN&user=E59dgV4AAAAJ), [Prof. Xiaoyu Ji](https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ), and [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ). Previously, I obtained my B.Eng from Harbin Engineering University, advised by [Prof. Jian Guan](https://scholar.google.com/citations?hl=zh-CN&user=wf60G1sAAAAJ) . My research interests lie in Trustworthy AI, with a specific focus on the intersection of Generative AI Security and Content Safety. 
+Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB](https://www.usslab.org/)) at Zhejiang University, co-advised by [Prof. Yushi Cheng](https://scholar.google.com/citations?hl=zh-CN&user=E59dgV4AAAAJ), [Prof. Xiaoyu Ji](https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ), and [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ). Previously, I obtained my B.Eng from Harbin Engineering University, advised by [Prof. Jian Guan](https://scholar.google.com/citations?hl=zh-CN&user=wf60G1sAAAAJ) . My research interests lie in Trustworthy AI, with a specific focus on the intersection of AI Security and Content Safety. 
 <!-- I have published 2 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> .-->
 
 
@@ -30,18 +30,7 @@ Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='images/campro.png' alt="CamPro-NDSS'24" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[CamPro: Camera-based Anti-Facial Recognition](https://arxiv.org/pdf/2401.00151)
-
-Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
-
-[Code](https://github.com/forget2save/CamPro)
-</div>
-</div>
-
-
+## LLM & Agent Security
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/pina.png' alt="PINA-ICASSP'26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -54,15 +43,27 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 </div>
 </div>
 
+- Toward Practical and Lightweight Defense against LLM Jailbreaks. **Jiani Liu**, Zixuan Qu, Zhihao Wu, Meng Zhang, Yushi Cheng*, Yanjiao Chen, Wenyuan Xu. *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
 
 
-
-
-
-
-- [IPI²: Mitigating Indirect Prompt Injections on Unmanned Aerial Vehicle Agents Using Physical Invariants](https://arxiv.org/pdf/2401.00151),Qidi Zhong, Siyang Liu, **Jiani Liu**, Kaikai Pan, Yushi Cheng, Wenyuan Xu
+- IPI²: Mitigating Indirect Prompt Injections on Unmanned Aerial Vehicle Agents Using Physical Invariants. Qidi Zhong, Siyang Liu, **Jiani Liu**, Kaikai Pan, Yushi Cheng, Wenyuan Xu
 , *ICASSP 2026*.
 
+
+## Adversarial Attack & Privacy
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='images/campro.png' alt="CamPro-NDSS'24" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CamPro: Camera-based Anti-Facial Recognition](https://arxiv.org/pdf/2401.00151)
+
+Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
+
+[Code](https://github.com/forget2save/CamPro)
+</div>
+</div>
+
+- Physical Adversarial Patch for Image Captioning. **Jiani Liu**, Yushi Cheng, Shibo Zhang, Xiaoyu Ji, Wenyuan Xu. *Pattern Recognition (PR).* (under review)
 
 
 # 🎖 Honors and Awards
