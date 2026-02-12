@@ -31,6 +31,7 @@ Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB
 # 📝 Publications 
 
 ## AI Security
+
 ### LLM & Agent Security
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/pina.png' alt="PINA-ICASSP'26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -65,6 +66,9 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 
 - Physical Adversarial Patch for Image Captioning. **Jiani Liu**, Yushi Cheng, Shibo Zhang, Xiaoyu Ji, Wenyuan Xu. *Pattern Recognition (PR).* (under review)
 
+## Content Safety
+
+In preparation.
 
 # 🎖 Honors and Awards
 - Outstanding Graduate Student Cadre, Zhejiang University, 2024, 2025
