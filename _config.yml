@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiani Liu"
-description              : "Trustworthy AI"
+description              : "Ph.D. student-USSLAB"
 repository               : "nikikiki6/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/niki.jpg"
   bio              : "Zhejiang University"
   location         : "Hangzhou, China"
-  employer         : "Ph.D. student, USSLAB"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=D5sX3ZgAAAAJ"
   email            : "jianiliu@zju.edu.cn"
