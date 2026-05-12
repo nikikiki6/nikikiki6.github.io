@@ -22,6 +22,7 @@ Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB
 <!-- I have published 2 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> .-->
 
 
+
 # 🔥 News
 - *2026.01*: PINA and IPI² is accepted to ICASSP 2026.
 - *2023.11*: CamPro is accepted to NDSS 2024.
@@ -36,7 +37,7 @@ Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/pina.png' alt="PINA-ICASSP'26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PINA: Prompt Injection Attack against Navigation Agents](https://arxiv.org/abs/2601.13612)
+[PINA: Prompt Injection Attack against Navigation Agents.](https://arxiv.org/abs/2601.13612)
 
 **Jiani Liu**, Yixin He, Lanlan Fan, Qidi Zhong, Yushi Cheng, Meng Zhang, Yanjiao Chen, Wenyuan Xu
 
@@ -48,7 +49,7 @@ Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB
 - Toward Practical and Lightweight Defense against LLM Jailbreaks. **Jiani Liu**, Zixuan Qu, Zhihao Wu, Meng Zhang, Yushi Cheng, Yanjiao Chen, Wenyuan Xu.  *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
 .-->
 
-- IPI²: Mitigating Indirect Prompt Injections on Unmanned Aerial Vehicle Agents Using Physical Invariants. Qidi Zhong, Siyang Liu, **Jiani Liu**, Kaikai Pan, Yushi Cheng, Wenyuan Xu
+- [IPI²: Mitigating Indirect Prompt Injections on Unmanned Aerial Vehicle Agents Using Physical Invariants.](https://ieeexplore.ieee.org/abstract/document/11463376/) Qidi Zhong, Siyang Liu, **Jiani Liu**, Kaikai Pan, Yushi Cheng, Wenyuan Xu
 , *ICASSP 2026*.
 
 
