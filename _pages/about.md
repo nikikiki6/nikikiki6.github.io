@@ -48,14 +48,21 @@ Adversarial attack against UAV agent. **Jiani Liu**, Lanlan Fan, Yushi Cheng, We
 
 **Jiani Liu**, Yixin He, Lanlan Fan, Qidi Zhong, Yushi Cheng, Meng Zhang, Yanjiao Chen, Wenyuan Xu
 
+IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.
+
 [Code](https://github.com/nikikiki6/PINA)
 </div>
 </div>
 
 
-- [IPI²: Mitigating Indirect Prompt Injections on Unmanned Aerial Vehicle Agents Using Physical Invariants.](https://ieeexplore.ieee.org/abstract/document/11463376/) Qidi Zhong, Siyang Liu, **Jiani Liu**, Kaikai Pan, Yushi Cheng, Wenyuan Xu
-, *ICASSP 2026*.
+- [IPI²: Mitigating Indirect Prompt Injections on Unmanned Aerial Vehicle Agents Using Physical Invariants.](https://ieeexplore.ieee.org/abstract/document/11463376/) Qidi Zhong, Siyang Liu, **Jiani Liu**, Kaikai Pan, Yushi Cheng, Wenyuan Xu, 
+*IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.*
 
+
+- [CamPro: Camera-based Anti-Facial Recognition.](https://arxiv.org/pdf/2401.00151) Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu. *Network and Distributed System Security (NDSS) Symposium, 2024* [Code](https://github.com/forget2save/CamPro)
+
+
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='images/campro.png' alt="CamPro-NDSS'24" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -66,6 +73,7 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 [Code](https://github.com/forget2save/CamPro)
 </div>
 </div>
+.-->
 
   
 ## Content Safety 
