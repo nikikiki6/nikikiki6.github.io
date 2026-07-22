@@ -47,8 +47,7 @@ Adversarial attack against UAV agent. **Jiani Liu**, Lanlan Fan, Yushi Cheng, We
 [PINA: Prompt Injection Attack against Navigation Agents.](https://arxiv.org/abs/2601.13612)
 
 **Jiani Liu**, Yixin He, Lanlan Fan, Qidi Zhong, Yushi Cheng, Meng Zhang, Yanjiao Chen, Wenyuan Xu. *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.*
-
-[Code](https://github.com/nikikiki6/PINA)
+[[Code]](https://github.com/nikikiki6/PINA)
 </div>
 </div>
 
