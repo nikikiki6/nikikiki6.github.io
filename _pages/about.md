@@ -33,7 +33,14 @@ Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB
 
 ## AI Security
 
-### LLM & Agent Security
+<!--
+Adversarial attack against UAV agent. **Jiani Liu**, Lanlan Fan, Yushi Cheng, Wenyuan Xu.(In preparation.)
+.-->
+
+<!--
+- Physical Adversarial Patch for Image Captioning. **Jiani Liu**, Yushi Cheng, Shibo Zhang, Xiaoyu Ji, Wenyuan Xu. *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
+.-->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/pina.png' alt="PINA-ICASSP'26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,15 +52,9 @@ Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB
 </div>
 </div>
 
-<!--
-- Toward Practical and Lightweight Defense against LLM Jailbreaks. **Jiani Liu**, Zixuan Qu, Zhihao Wu, Meng Zhang, Yushi Cheng, Yanjiao Chen, Wenyuan Xu.  *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
-.-->
 
 - [IPI²: Mitigating Indirect Prompt Injections on Unmanned Aerial Vehicle Agents Using Physical Invariants.](https://ieeexplore.ieee.org/abstract/document/11463376/) Qidi Zhong, Siyang Liu, **Jiani Liu**, Kaikai Pan, Yushi Cheng, Wenyuan Xu
 , *ICASSP 2026*.
-
-
-### Adversarial Attack & Privacy
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NDSS 2024</div><img src='images/campro.png' alt="CamPro-NDSS'24" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -66,13 +67,37 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
 </div>
 </div>
 
-<!--
-- Physical Adversarial Patch for Image Captioning. **Jiani Liu**, Yushi Cheng, Shibo Zhang, Xiaoyu Ji, Wenyuan Xu. *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
-.-->
   
-## Content Safety
+## Content Safety 
+
+<!--
+Understanding Pornographic Trade Jargon on Social Media: A Dataset and Methodology. **Jiani Liu**, Wendao Yao, Yushi Cheng, Wenyuan Xu. (In preparation.)
+.-->
+
+
+<!--
+Understanding and Detecting Implicit Hate Speech. **Jiani Liu**, Tianqing Li, Yushi Cheng, Wenyuan Xu. *NDSS,2027* (under review)
+.-->
+
+
+<!--
+- Toward Practical and Lightweight Defense against LLM Jailbreaks. **Jiani Liu**, Zixuan Qu, Zhihao Wu, Meng Zhang, Yushi Cheng, Yanjiao Chen, Wenyuan Xu.  *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
+.-->
+
+
+<!--
+AttriHate: Attribute-Guided Reasoning for Implicit Hate Speech Detection. Zhanglong Yu, **Jiani Liu**, Meng Zhang, Yushi Cheng.  *AAAI 2027* (under review)
+.-->
 
 In preparation.
+
+
+## Miscellaneous
+
+<!--
+DRONE MANAGER: A Novice-Friendly Multi-Unmanned Aerial Vehicle Copilot. Qidi Zhong, Siyang Liu, **Jiani Liu**, Kaikai Pan, Yushi Cheng, Wenyuan Xu. *The IEEE Internet of Things Journal (IoT-J).* (under review) 
+.-->
+
 
 # 🎖 Honors and Awards
 - Outstanding Graduate Student Cadre, Zhejiang University, 2024, 2025
