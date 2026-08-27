@@ -38,8 +38,14 @@ Adversarial attack against UAV agent. **Jiani Liu**, Lanlan Fan, Yushi Cheng, We
 .-->
 
 <!--
-- Physical Adversarial Patch for Image Captioning. **Jiani Liu**, Yushi Cheng, Shibo Zhang, Xiaoyu Ji, Wenyuan Xu. *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
+- Physical Adversarial Patch for VLM. **Jiani Liu**, Yushi Cheng, Shibo Zhang, Xiaoyu Ji, Wenyuan Xu. *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
 .-->
+
+
+<!--
+- Toward Practical and Lightweight Defense against LLM Jailbreaks. **Jiani Liu**, Zixuan Qu, Zhihao Wu, Meng Zhang, Yushi Cheng, Yanjiao Chen, Wenyuan Xu.  *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
+.-->
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/pina.png' alt="PINA-ICASSP'26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,19 +82,20 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
   
 ## Content Safety 
 
+
+<!--
+HateSheller: Understanding and Detecting Implicit Hate Speech via Hate Essence Recovery. **Jiani Liu**, Tianqing Li, Yushi Cheng, Yanjiao Chen, Wenyuan Xu. *NDSS,2027* (under review)
+.-->
+
+<!--
+HateSAE
+.-->
+
 <!--
 Understanding Pornographic Trade Jargon on Social Media: A Dataset and Methodology. **Jiani Liu**, Wendao Yao, Yushi Cheng, Wenyuan Xu. (In preparation.)
 .-->
 
 
-<!--
-Understanding and Detecting Implicit Hate Speech. **Jiani Liu**, Tianqing Li, Yushi Cheng, Wenyuan Xu. *NDSS,2027* (under review)
-.-->
-
-
-<!--
-- Toward Practical and Lightweight Defense against LLM Jailbreaks. **Jiani Liu**, Zixuan Qu, Zhihao Wu, Meng Zhang, Yushi Cheng, Yanjiao Chen, Wenyuan Xu.  *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
-.-->
 
 
 <!--
