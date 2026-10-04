@@ -49,10 +49,12 @@ If you are interested in my work or have any questions, please feel free to cont
 
 <!--**Prompt Injection Attack**-->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CCF-B</div><img src='images/pina.png' alt="PINA-ICASSP'26" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026 * CCF-B</div><img src='images/pina.png' alt="PINA-ICASSP'26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 [PINA: Prompt Injection Attack against Navigation Agents.](https://arxiv.org/abs/2601.13612)
-**Jiani Liu**, Yixin He, Lanlan Fan, Qidi Zhong, Yushi Cheng, Meng Zhang, Yanjiao Chen, Wenyuan Xu. *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.*
+**Jiani Liu**, Yixin He, Lanlan Fan, Qidi Zhong, Yushi Cheng, Meng Zhang, Yanjiao Chen, Wenyuan Xu. 
+  
+*IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.*
 
 [Code](https://github.com/nikikiki6/PINA)
 </div>
