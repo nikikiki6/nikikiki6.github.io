@@ -39,24 +39,19 @@ If you are interested in my work or have any questions, please feel free to cont
 
 ## AI Security
 
+<!--**Jailbreak Attack**.-->
+
 <!--
 - Toward Practical and Lightweight Defense against LLM Jailbreaks. **Jiani Liu**, Zixuan Qu, Zhihao Wu, Meng Zhang, Yushi Cheng, Yanjiao Chen, Wenyuan Xu.  *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
 .-->
 
 
-<!--
-Cross-prompt targeted adversarial patch against VLM. **Jiani Liu**, Lanlan Fan, Yushi Cheng, Wenyuan Xu.(In preparation.)
-.-->
 
-<!--
-- Physical Adversarial Patch for Image Captioning: From Caption Manipulation to System Disruption. **Jiani Liu**, Lanlan Fan, Zhihao Wu, Shibo Zhang, Yushi Cheng, Xiaoyu Ji. *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
-.-->
+**Prompt Injection Attack**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/pina.png' alt="PINA-ICASSP'26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [PINA: Prompt Injection Attack against Navigation Agents.](https://arxiv.org/abs/2601.13612)
-
 **Jiani Liu**, Yixin He, Lanlan Fan, Qidi Zhong, Yushi Cheng, Meng Zhang, Yanjiao Chen, Wenyuan Xu. *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.*
 
 [Code](https://github.com/nikikiki6/PINA)
@@ -67,6 +62,18 @@ Cross-prompt targeted adversarial patch against VLM. **Jiani Liu**, Lanlan Fan, 
 - [IPI²: Mitigating Indirect Prompt Injections on Unmanned Aerial Vehicle Agents Using Physical Invariants.](https://ieeexplore.ieee.org/abstract/document/11463376/) Qidi Zhong, Siyang Liu, **Jiani Liu**, Kaikai Pan, Yushi Cheng, Wenyuan Xu, 
 *IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2026.*
 
+
+<!--**Adversarial Attack**.-->
+
+<!--
+Cross-prompt targeted adversarial patch against VLM. **Jiani Liu**, Lanlan Fan, Yushi Cheng, Wenyuan Xu.(In preparation.)
+.-->
+
+<!--
+- Physical Adversarial Patch for Image Captioning: From Caption Manipulation to System Disruption. **Jiani Liu**, Lanlan Fan, Zhihao Wu, Shibo Zhang, Yushi Cheng, Xiaoyu Ji. *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
+.-->
+
+**Privacy**
 
 - [CamPro: Camera-based Anti-Facial Recognition.](https://arxiv.org/pdf/2401.00151) Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu. *Network and Distributed System Security (NDSS) Symposium, 2024.* [[Code]](https://github.com/forget2save/CamPro)
 
@@ -87,9 +94,8 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
   
 ## Content Safety 
 
-<!--
-Understanding Pornographic Trade Jargon on Social Media: A Dataset and Methodology. **Jiani Liu**, Wendao Yao, Yushi Cheng, Wenyuan Xu. (In preparation.)
-.-->
+
+<!--**Hate**.-->
 
 
 <!--
@@ -104,8 +110,15 @@ HateSAEker: Understanding and Improving Hate Speech Detection with Sparse Autoen
 How LLM see hate? Understanding Explicit and Implicit Hate Speech with Sparse Autoencoders. (In preparation.)
 .-->
 
+
 <!--
 AttriHate: Attribute-Guided Reasoning for Implicit Hate Speech Detection. Zhanglong Yu, **Jiani Liu**, Meng Zhang, Yushi Cheng.  *AAAI 2027* (under review)
+.-->
+
+<!--**Sexual Content**.-->
+
+<!--
+Understanding Pornographic Trade Jargon on Social Media: A Dataset and Methodology. **Jiani Liu**, Wendao Yao, Yushi Cheng, Wenyuan Xu. (In preparation.)
 .-->
 
 In preparation.
