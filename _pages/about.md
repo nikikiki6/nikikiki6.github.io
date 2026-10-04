@@ -18,15 +18,21 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB](https://www.usslab.org/)) at Zhejiang University, co-advised by [Prof. Yushi Cheng](https://scholar.google.com/citations?hl=zh-CN&user=E59dgV4AAAAJ), [Prof. Xiaoyu Ji](https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ), and [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ). Previously, I obtained my B.Eng from Harbin Engineering University, advised by [Prof. Jian Guan](https://scholar.google.com/citations?hl=zh-CN&user=wf60G1sAAAAJ) . My research interests lie in Trustworthy AI, with a specific focus on the intersection of AI Security and Content Safety. 
+Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB](https://www.usslab.org/)), Zhejiang University(2023-present), co-advised by [Prof. Yushi Cheng](https://scholar.google.com/citations?hl=zh-CN&user=E59dgV4AAAAJ), [Prof. Xiaoyu Ji](https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ), and [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ). Previously, I obtained my B.Eng from Harbin Engineering University(2019-2023), advised by [Prof. Jian Guan](https://scholar.google.com/citations?hl=zh-CN&user=wf60G1sAAAAJ) . 
+
+**Research Interests**
+My research interests lie in Trustworthy AI, with a specific focus on the intersection of AI Security and Content Safety. My research interests lie in Trustworthy AI, specifically at the intersection of AI Security and Content Safety, focusing on both securing MLLMs and using MLLMs to address content safety. 
+If you are interested in my work or have any questions, please feel free to contact me at jianiliu@zju.edu.cn.
+
+
 <!-- I have published 2 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> .-->
 
 
-
+<!-- 
 # 🔥 News
 - *2026.01*: PINA and IPI² is accepted to ICASSP 2026.
 - *2023.11*: CamPro is accepted to NDSS 2024.
-
+-->
 
 
 # 📝 Publications 
@@ -34,18 +40,17 @@ Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB
 ## AI Security
 
 <!--
-Adversarial attack against UAV agent. **Jiani Liu**, Lanlan Fan, Yushi Cheng, Wenyuan Xu.(In preparation.)
-.-->
-
-<!--
-- Physical Adversarial Patch for VLM. **Jiani Liu**, Yushi Cheng, Shibo Zhang, Xiaoyu Ji, Wenyuan Xu. *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
-.-->
-
-
-<!--
 - Toward Practical and Lightweight Defense against LLM Jailbreaks. **Jiani Liu**, Zixuan Qu, Zhihao Wu, Meng Zhang, Yushi Cheng, Yanjiao Chen, Wenyuan Xu.  *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
 .-->
 
+
+<!--
+Cross-prompt targeted adversarial patch against VLM. **Jiani Liu**, Lanlan Fan, Yushi Cheng, Wenyuan Xu.(In preparation.)
+.-->
+
+<!--
+- Physical Adversarial Patch for Image Captioning: From Caption Manipulation to System Disruption. **Jiani Liu**, Lanlan Fan, Zhihao Wu, Shibo Zhang, Yushi Cheng, Xiaoyu Ji. *IEEE Transactions on Dependable and Secure Computing (TDSC).* (under review)
+.-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/pina.png' alt="PINA-ICASSP'26" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,21 +87,22 @@ Wenjun Zhu, Yuan Sun, **Jiani Liu**, Yushi Cheng, Xiaoyu Ji, Wenyuan Xu
   
 ## Content Safety 
 
+<!--
+Understanding Pornographic Trade Jargon on Social Media: A Dataset and Methodology. **Jiani Liu**, Wendao Yao, Yushi Cheng, Wenyuan Xu. (In preparation.)
+.-->
+
 
 <!--
 HateSheller: Understanding and Detecting Implicit Hate Speech via Hate Essence Recovery. **Jiani Liu**, Tianqing Li, Yushi Cheng, Yanjiao Chen, Wenyuan Xu. *NDSS,2027* (under review)
 .-->
 
 <!--
-HateSAE
+HateSAEker: Understanding and Improving Hate Speech Detection with Sparse Autoencoders. **Jiani Liu**, Tianqing Li, Yushi Cheng, Yanjiao Chen, Wenyuan Xu. (In preparation.)
 .-->
 
 <!--
-Understanding Pornographic Trade Jargon on Social Media: A Dataset and Methodology. **Jiani Liu**, Wendao Yao, Yushi Cheng, Wenyuan Xu. (In preparation.)
+How LLM see hate? Understanding Explicit and Implicit Hate Speech with Sparse Autoencoders. (In preparation.)
 .-->
-
-
-
 
 <!--
 AttriHate: Attribute-Guided Reasoning for Implicit Hate Speech Detection. Zhanglong Yu, **Jiani Liu**, Meng Zhang, Yushi Cheng.  *AAAI 2027* (under review)
@@ -133,6 +139,8 @@ DRONE MANAGER: A Novice-Friendly Multi-Unmanned Aerial Vehicle Copilot. Qidi Zho
 - Reviewer of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
 - Teaching Assistant of ECE471(Data Science Analytics using Probabilistic Graph Models), ZJU-UIUC Institute at Zhejiang University, 2024.9 - 2025.1.
 - Teaching Assistant of Reliability Engineering and Maintenance Management, ZJU-UIUC Institute at Zhejiang University, 2024.11 - 2025.1.
+
+
 
 
 <!-- 这里是注释 .-->
