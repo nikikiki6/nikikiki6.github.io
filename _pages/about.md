@@ -20,8 +20,8 @@ redirect_from:
 
 Hi, this is Jiani, a Ph.D student at the Ubiquitous System Security Lab ([USSLAB](https://www.usslab.org/)), Zhejiang University(2023-present), co-advised by [Prof. Yushi Cheng](https://scholar.google.com/citations?hl=zh-CN&user=E59dgV4AAAAJ), [Prof. Xiaoyu Ji](https://scholar.google.com/citations?hl=zh-CN&user=9D4UYBoAAAAJ), and [Prof. Wenyuan Xu](https://scholar.google.com/citations?user=FCsdj0YAAAAJ). Previously, I obtained my B.Eng from Harbin Engineering University(2019-2023), advised by [Prof. Jian Guan](https://scholar.google.com/citations?hl=zh-CN&user=wf60G1sAAAAJ) . 
 
-**Research Interests**
-My research interests lie in Trustworthy AI, with a specific focus on the intersection of AI Security and Content Safety. My research interests lie in Trustworthy AI, specifically at the intersection of AI Security and Content Safety, focusing on both securing MLLMs and using MLLMs to address content safety. 
+
+My research interests lie in Trustworthy AI, specifically at the intersection of **AI Security** and **Content Safety**, focusing on both securing MLLMs and using MLLMs to address content safety. 
 If you are interested in my work or have any questions, please feel free to contact me at jianiliu@zju.edu.cn.
 
 
